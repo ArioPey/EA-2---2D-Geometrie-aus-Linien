@@ -39,9 +39,6 @@ gl.drawArrays(gl.LINES, 0, vertexCount);
 
 Shader-Kompilierung und Program-Linking werden geprüft. Fehler werden auf der Webseite angezeigt und mit `console.error()` in der Browser-Konsole ausgegeben.
 
-Zum Testen in Chrome:
-**Entwicklertools → Console**
-
 ## Quelle / Inspiration
 
 Als allgemeine Inspiration für lineare Tierillustrationen wurde die in der Aufgabenstellung genannte Quelle verwendet:
